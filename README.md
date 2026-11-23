@@ -3,11 +3,20 @@
 </p>
 
 <p align="center">
+  <img src="docs/badge-rust.png" alt="built with Rust" height="20">
+  <img src="docs/badge-vibe.png" alt="vibe coding with AI" height="20">
+  <img src="docs/badge-platform.png" alt="platform: Windows · macOS · Linux" height="20">
+</p>
+
+<p align="center">
   <a href="https://github.com/Kim-Jeong-Seok/tetherdesk-releases/releases/latest"><b>⬇ 최신 버전 받기</b></a>
-  &nbsp;·&nbsp; Windows · macOS · Linux
 </p>
 
 # TetherDesk
+
+> [!NOTE]
+> 🦀 **Rust로 만든 바이브 코딩 프로젝트입니다.**<br>
+> 무엇을 만들지 정하고, 실제 PC에서 써 보며 문제를 찾아낸 건 사람이 — 코드는 AI와 대화하며 함께 썼습니다.
 
 책상 위 PC 여러 대를 **키보드·마우스 하나로** 쓰는 프로그램입니다.
 마우스를 화면 끝으로 밀면 옆 PC로 넘어가고, 키보드 입력과 복사·붙여넣기도 같이 넘어갑니다.
